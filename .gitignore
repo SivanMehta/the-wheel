@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# lockfile to reduce PR noise
+package-lock.json

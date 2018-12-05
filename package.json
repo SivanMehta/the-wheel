@@ -1,0 +1,26 @@
+{
+  "name": "the-wheel",
+  "version": "0.0.0",
+  "description": "wow I bet this is a totally unique idea",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:unit",
+    "test:unit": "mocha test/*.test.js",
+    "test:debug": "npm run test:unit --inspect-brk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SivanMehta/the-wheel.git"
+  },
+  "author": "Sivan Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SivanMehta/the-wheel/issues"
+  },
+  "homepage": "https://github.com/SivanMehta/the-wheel#readme",
+  "devDependencies": {
+    "assume": "^2.1.0",
+    "mocha": "^5.2.0",
+    "sinon": "^7.1.1"
+  }
+}
