@@ -1,10 +1,14 @@
 # `the-wheel`
 
-![npm (scoped)](https://img.shields.io/npm/v/the-wheel.svg)
+[![npm (scoped)](https://img.shields.io/npm/v/the-wheel.svg)](https://www.npmjs.com/package/the-wheel)
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 [![Build Status](https://travis-ci.com/SivanMehta/the-wheel.svg?branch=master)](https://travis-ci.com/SivanMehta/the-wheel)
 
 ## Usage
+
+```
+npm install the-wheel
+```
 
 ### `For`
 
