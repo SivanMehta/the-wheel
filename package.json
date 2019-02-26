@@ -1,6 +1,6 @@
 {
   "name": "the-wheel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wow I bet this is a totally unique idea",
   "main": "index.js",
   "scripts": {
