@@ -71,7 +71,7 @@ for(let i = 0; i < 10; i ++) {
   console.log(i);
 }
 
-For(0, i => i < 10, i => i += 1, i => {
+For(0, i => i < 10, i => i + 1, i => {
   if(i % 2 != 0) {
     return;
   }
